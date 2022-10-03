@@ -420,3 +420,4 @@ sort(v.begin(), v.end()); // sorting in the vector
 |#include<fstream.h> | It is used to control the data to read from a file|
 |#include<time.h>    | It is used to perform functions related to date() and time|
 |#include<bits/stdc++.h>    |It is used to include all the standard library files|
+|#include<algorithm.h>    |It is used to include all the standard library files|
